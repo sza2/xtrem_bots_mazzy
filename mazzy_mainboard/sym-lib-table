@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ac6926a)(type Legacy)(uri ${KIPRJMOD}/ac6926a.lib)(options "")(descr ""))
+  (lib (name mx1616)(type Legacy)(uri ${KIPRJMOD}/mx1616.lib)(options "")(descr ""))
+  (lib (name ns8002b)(type Legacy)(uri ${KIPRJMOD}/ns8002b.lib)(options "")(descr ""))
+)
